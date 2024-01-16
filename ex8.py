@@ -1,4 +1,4 @@
-# vòng lặp for trong python
+# vòng lặp for
 
 # ---xuất ra khoảng giá trị của i---
 for i in range (10):
