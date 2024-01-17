@@ -1,5 +1,7 @@
 # set trong python
 
+# khai báo 1 set rỗng
+emptySet = set ()
 # tạo mới 1 set
 monHoc = {"Toán", "Lý", "Hóa"}
 # duyệt từng phần tử của môn học
