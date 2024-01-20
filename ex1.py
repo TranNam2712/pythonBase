@@ -19,7 +19,7 @@ print ("Trần","Nhật","Nam","tuổi:",20,"giới tính:","Nam","năm sinh: ",
 print ("Trần Nhật Nam","tuổi: 20","năm sinh: 2004",sep=",")
 # thông thường các chuỗi được set end mặc định là "\n", bây giờ sẽ set lại là một chuỗi bất kì (ví dụ "abc")
 print ("Trần Nhật Nam", end = "abc")
-print ("Trần Nhật Nam", end = "\n")
+print ("Trần Nhật Nam",end = "\n") # \n là kí tự xuống dòng
 # format một chuỗi
 print ("Tên:{0},Quốc tịch:{1}".format ("Trần Nhật Nam","Việt Nam"))
 print ("Tên:{0},tuổi:{1}".format ("Trần Nhật Nam",20))
